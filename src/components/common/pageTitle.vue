@@ -15,14 +15,7 @@
 
 <script>
 	export default{
-		data(){
-			return{
-				
-			}
-		},
-		props:[
-			'vtitle'
-		]
+		props:['vtitle']
 	}
 </script>
 

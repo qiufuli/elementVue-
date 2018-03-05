@@ -12,6 +12,7 @@
   "dependencies": {
     "echarts": "^4.0.4",
     "element-ui": "^2.2.0",
+    "mavon-editor": "^2.4.16",
     "vue": "^2.5.2",
     "vue-echarts-v3": "^1.0.19",
     "vue-markdown": "^2.2.4",

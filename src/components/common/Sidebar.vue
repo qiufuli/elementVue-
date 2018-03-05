@@ -14,7 +14,7 @@
 				</template>
 				<el-menu-item index="EditorPage">Editor</el-menu-item>
 	            <el-menu-item index="MarkdownPage">Markdown</el-menu-item>
-	            <el-menu-item index="TodoList">TodoList</el-menu-item>
+	            <el-menu-item index="TodoList">TodoList</el-menu-item>  
 			</el-submenu>
 			<el-submenu index="3">
                 <template slot="title">
